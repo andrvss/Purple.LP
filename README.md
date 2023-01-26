@@ -20,7 +20,7 @@ Projeto de uma landing page focado em simular a landing page de cadastro em uma 
 <br>
 
 <p align="center">
-  <img alt="Projeto Purple" src="https://www.figma.com/file/SNl8OCeEAWYPwOXdqS2O4C/Clay-iPhone-Mockups---2021-Updated-(Community)-(Community)?node-id=53890%3A10260&t=v5Iv4HCcSlkEmXRv-4 width="100%">
+  <img alt="Projeto Purple" src="hhttps://user-images.githubusercontent.com/110691699/214920972-7d521f14-f230-4fee-8212-1bb5f0646e23.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,7 +39,7 @@ Esta landing page é uma reprodução de cadastro em uma Newsletter comercial.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SNl8OCeEAWYPwOXdqS2O4C/Clay-iPhone-Mockups---2021-Updated-(Community)-(Community)?node-id=53890%3A10260&t=v5Iv4HCcSlkEmXRv-4). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SNl8OCeEAWYPwOXdqS2O4C/Clay-iPhone-Mockups---2021-Updated-(Community)-(Community)?node-id=53890%3A10259&t=v5Iv4HCcSlkEmXRv-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
