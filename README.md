@@ -20,7 +20,7 @@ Projeto de uma landing page focado em simular a landing page de cadastro em uma 
 <br>
 
 <p align="center">
-  <img alt="Projeto Purple" src="hhttps://user-images.githubusercontent.com/110691699/214920972-7d521f14-f230-4fee-8212-1bb5f0646e23.png" width="100%">
+  <img alt="Projeto Purple" src="https://user-images.githubusercontent.com/110691699/214920972-7d521f14-f230-4fee-8212-1bb5f0646e23.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
