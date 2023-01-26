@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esta landing page é uma reprodução de cadastro em uma Newsletter comercial.
 
-- [Visite o projeto online aqui](https://andrvss.github.io/NLW-Setup/)
+- [Visite o projeto online aqui](https://andrvss.github.io/Purple.LP/)
 
 ## 🔖 Layout
 
