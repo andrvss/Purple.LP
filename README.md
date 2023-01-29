@@ -3,7 +3,7 @@
 <h1 align="center"> Purple </h1>
 
 <p align="center">
-Projeto de uma landing page focado em simular a landing page de cadastro em uma Newsletter. <br/>
+Projeto de uma landing page focado em simular a tela de cadastro em uma Newsletter. <br/>
 </p>
 
 <p align="center">
